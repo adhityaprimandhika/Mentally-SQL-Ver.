@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentally", "Mentally.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentally_Library", "..\Mentally_Library\Mentally_Library.csproj", "{7B131747-205A-469F-972C-5DBB5F5B8629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentally_DB_Library", "..\Mentally_DB_Library\Mentally_DB_Library.csproj", "{F8A55B97-1048-484E-9772-B1EA4C825634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7B131747-205A-469F-972C-5DBB5F5B8629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B131747-205A-469F-972C-5DBB5F5B8629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B131747-205A-469F-972C-5DBB5F5B8629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A55B97-1048-484E-9772-B1EA4C825634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A55B97-1048-484E-9772-B1EA4C825634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A55B97-1048-484E-9772-B1EA4C825634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A55B97-1048-484E-9772-B1EA4C825634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

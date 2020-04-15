@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using Mentally_Library;
 using MySql.Data.MySqlClient;
+using Mentally_DB_Library;
 
 namespace Mentally
 {

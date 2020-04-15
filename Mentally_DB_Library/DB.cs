@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mentally_Library
+namespace Mentally_DB_Library
 {
     public class DB
     {

@@ -188,6 +188,10 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Mentally_DB_Library\Mentally_DB_Library.csproj">
+      <Project>{f8a55b97-1048-484e-9772-b1ea4c825634}</Project>
+      <Name>Mentally_DB_Library</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Mentally_Library\Mentally_Library.csproj">
       <Project>{7b131747-205a-469f-972c-5dbb5f5b8629}</Project>
       <Name>Mentally_Library</Name>
