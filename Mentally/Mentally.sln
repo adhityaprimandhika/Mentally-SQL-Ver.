@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentally", "Mentally.csproj", "{294F684B-7E74-44FB-8261-5CF8746F2261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentally_Library", "..\Mentally_Library\Mentally_Library.csproj", "{7B131747-205A-469F-972C-5DBB5F5B8629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294F684B-7E74-44FB-8261-5CF8746F2261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294F684B-7E74-44FB-8261-5CF8746F2261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294F684B-7E74-44FB-8261-5CF8746F2261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294F684B-7E74-44FB-8261-5CF8746F2261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B131747-205A-469F-972C-5DBB5F5B8629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B131747-205A-469F-972C-5DBB5F5B8629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B131747-205A-469F-972C-5DBB5F5B8629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B131747-205A-469F-972C-5DBB5F5B8629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98098D9-72E5-4521-83B8-B61E83AEB78D}
+	EndGlobalSection
+EndGlobal

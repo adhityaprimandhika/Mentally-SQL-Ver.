@@ -1,0 +1,70 @@
+Fitur
+-Checkup
+-Analisis
+-Memberi solusi dari gangguan yg dialami
+-Motivasi
+-Menyimpan dan menampilkan data hasil checkup
+
+Class
+
+Data
++ DaftarGejala : string[]
++ DaftarGangguan : string[]
+Analisis(int pilihan) : void
+
+CheckUp : Data
++ Pilihan : int
+CheckUp()
+Save() : void
+
+Motivasi
++ DaftarMotivasi()
+Motivasi() : void
+
+HasilCheckup
+HasilCheckup()
+
+Check : IMenu
+
+Motivation : IMenu
+
+History : IMenu
+
+Daftar Gejala
+Depresi : Terus-Menerus sedih
+Skizofrenia : Sulit membedakan antara kenyataan dan pikirannya
+Gangguan Kecemasan : Selalu merasa cemas dan takut yang berlebihan
+Gangguan Bipolar : Sering mengalami perubahan suasana hati
+Insomnia : Kesulitan untuk tidur
+
+Solusi
+Depresi
+- Berlatih memerangi setiap pikiran negatif
+- Buat buku harian yang bercerita tentang suasana hati
+- Lakukan hal baru
+- Buat rutinitas baru
+
+Skizofrenia
+- Tidur dengan cukup
+- Olahraga teratur
+- Mengatur tingkat stres
+- Menjaga interaksi sosial
+
+Gangguan Kecemasan
+- Memusatkan pikiran pada aktivitas yang sedang dijalani
+- Menghindari kafein dan alkohol
+- Bercerita kepada orang lain
+- Menyediakan waktu untuk diri sendiri
+
+Bipolar
+- Cari teman bicara
+- Aktivitas di luar bersama dengan teman
+- Berolahraga untuk tetap aktif
+- Nikmati semua yang terjadi dalam hidup
+
+Insomnia
+- Waktu bangun dan tidur harus teratur
+- Gunakan kasur hanya untuk tidur
+- Buat tempat tidur menjadi nyaman
+- Makan malam lebih awal
+
