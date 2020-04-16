@@ -46,3 +46,7 @@ C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally
 C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Ubiety.Dns.Core.dll
 C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Renci.SshNet.dll
 C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\MySql.Data.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.DatabaseCheck.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.exe.config

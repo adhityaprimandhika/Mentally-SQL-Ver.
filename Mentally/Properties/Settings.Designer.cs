@@ -22,7 +22,5 @@ namespace Mentally.Properties {
                 return defaultInstance;
             }
         }
-        
-        
     }
 }
