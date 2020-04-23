@@ -38,9 +38,6 @@
             // 
             // lb_Motivasi_Header
             // 
-            this.lb_Motivasi_Header.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Motivasi_Header.AutoSize = true;
             this.lb_Motivasi_Header.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Motivasi_Header.Location = new System.Drawing.Point(239, 41);
@@ -64,9 +61,6 @@
             // 
             // btn_Motivasi
             // 
-            this.btn_Motivasi.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Motivasi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Motivasi.Location = new System.Drawing.Point(244, 174);
             this.btn_Motivasi.Name = "btn_Motivasi";
@@ -78,9 +72,6 @@
             // 
             // btn_Motivasi_Back
             // 
-            this.btn_Motivasi_Back.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Motivasi_Back.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Motivasi_Back.Location = new System.Drawing.Point(244, 233);
             this.btn_Motivasi_Back.Name = "btn_Motivasi_Back";

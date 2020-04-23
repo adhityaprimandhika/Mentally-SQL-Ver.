@@ -38,9 +38,6 @@
             // 
             // lb_Solusi
             // 
-            this.lb_Solusi.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Solusi.AutoSize = true;
             this.lb_Solusi.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Solusi.Location = new System.Drawing.Point(334, 30);
@@ -51,9 +48,6 @@
             // 
             // lb_Solusi_1
             // 
-            this.lb_Solusi_1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Solusi_1.AutoSize = true;
             this.lb_Solusi_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Solusi_1.Location = new System.Drawing.Point(278, 98);
@@ -64,9 +58,6 @@
             // 
             // lb_Solusi_2
             // 
-            this.lb_Solusi_2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Solusi_2.AutoSize = true;
             this.lb_Solusi_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Solusi_2.Location = new System.Drawing.Point(278, 127);
@@ -77,9 +68,6 @@
             // 
             // lb_Solusi_3
             // 
-            this.lb_Solusi_3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Solusi_3.AutoSize = true;
             this.lb_Solusi_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Solusi_3.Location = new System.Drawing.Point(278, 158);
@@ -90,9 +78,6 @@
             // 
             // lb_Solusi_4
             // 
-            this.lb_Solusi_4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Solusi_4.AutoSize = true;
             this.lb_Solusi_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Solusi_4.Location = new System.Drawing.Point(278, 193);

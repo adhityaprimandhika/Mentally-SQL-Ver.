@@ -36,9 +36,6 @@
             // 
             // lb_Hasil
             // 
-            this.lb_Hasil.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Hasil.AutoSize = true;
             this.lb_Hasil.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Hasil.Location = new System.Drawing.Point(197, 137);
@@ -59,9 +56,6 @@
             // 
             // btn_HasilSolusi
             // 
-            this.btn_HasilSolusi.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_HasilSolusi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_HasilSolusi.Location = new System.Drawing.Point(335, 210);
             this.btn_HasilSolusi.Name = "btn_HasilSolusi";
@@ -73,9 +67,6 @@
             // 
             // lb_HasilHeader
             // 
-            this.lb_HasilHeader.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_HasilHeader.AutoSize = true;
             this.lb_HasilHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_HasilHeader.Location = new System.Drawing.Point(287, 32);

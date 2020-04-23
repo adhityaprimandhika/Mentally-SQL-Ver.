@@ -36,9 +36,6 @@
             // 
             // btn_Start_Login
             // 
-            this.btn_Start_Login.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Start_Login.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Start_Login.Location = new System.Drawing.Point(139, 164);
             this.btn_Start_Login.Name = "btn_Start_Login";
@@ -50,9 +47,6 @@
             // 
             // btn_Start_Register
             // 
-            this.btn_Start_Register.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_Start_Register.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Start_Register.Location = new System.Drawing.Point(367, 164);
             this.btn_Start_Register.Name = "btn_Start_Register";
@@ -64,9 +58,6 @@
             // 
             // Pilihan_Start
             // 
-            this.Pilihan_Start.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.Pilihan_Start.AutoSize = true;
             this.Pilihan_Start.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Pilihan_Start.Location = new System.Drawing.Point(225, 105);
@@ -77,9 +68,6 @@
             // 
             // lb_Mentally
             // 
-            this.lb_Mentally.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Mentally.AutoSize = true;
             this.lb_Mentally.Font = new System.Drawing.Font("Playfair Display", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Mentally.Location = new System.Drawing.Point(238, 32);

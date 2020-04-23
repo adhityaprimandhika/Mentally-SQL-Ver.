@@ -41,9 +41,6 @@
             // 
             // Rbtn_Gejala_1
             // 
-            this.Rbtn_Gejala_1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.Rbtn_Gejala_1.AutoSize = true;
             this.Rbtn_Gejala_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Rbtn_Gejala_1.Location = new System.Drawing.Point(291, 113);
@@ -56,8 +53,6 @@
             // 
             // lb_Gejala
             // 
-            this.lb_Gejala.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_Gejala.AutoSize = true;
             this.lb_Gejala.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_Gejala.Location = new System.Drawing.Point(354, 26);
@@ -68,9 +63,6 @@
             // 
             // lb_PilihGejala
             // 
-            this.lb_PilihGejala.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.lb_PilihGejala.AutoSize = true;
             this.lb_PilihGejala.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_PilihGejala.Location = new System.Drawing.Point(277, 74);
@@ -81,9 +73,6 @@
             // 
             // Rbtn_Gejala_2
             // 
-            this.Rbtn_Gejala_2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.Rbtn_Gejala_2.AutoSize = true;
             this.Rbtn_Gejala_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Rbtn_Gejala_2.Location = new System.Drawing.Point(291, 143);
@@ -96,9 +85,6 @@
             // 
             // Rbtn_Gejala_3
             // 
-            this.Rbtn_Gejala_3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.Rbtn_Gejala_3.AutoSize = true;
             this.Rbtn_Gejala_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Rbtn_Gejala_3.Location = new System.Drawing.Point(291, 173);
@@ -111,9 +97,6 @@
             // 
             // Rbtn_Gejala_4
             // 
-            this.Rbtn_Gejala_4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.Rbtn_Gejala_4.AutoSize = true;
             this.Rbtn_Gejala_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Rbtn_Gejala_4.Location = new System.Drawing.Point(291, 203);
@@ -126,9 +109,6 @@
             // 
             // Rbtn_Gejala_5
             // 
-            this.Rbtn_Gejala_5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.Rbtn_Gejala_5.AutoSize = true;
             this.Rbtn_Gejala_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Rbtn_Gejala_5.Location = new System.Drawing.Point(291, 234);
@@ -141,9 +121,6 @@
             // 
             // btn_CheckUp
             // 
-            this.btn_CheckUp.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_CheckUp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_CheckUp.Location = new System.Drawing.Point(312, 264);
             this.btn_CheckUp.Name = "btn_CheckUp";
