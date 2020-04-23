@@ -23,8 +23,8 @@ namespace Mentally
 
         private void RegisterAccount()
         {
-            DB dB = new DB();
-            MySqlCommand command = new MySqlCommand("INSERT INTO `account`(`email`, `password`, `username`, `nama`) VALUES ( @email, @pass, @usn, @nama)", dB.getConnection());
+            DB db = new DB();
+            MySqlCommand command = new MySqlCommand("INSERT INTO `account`(`email`, `password`, `username`, `nama`) VALUES ( @email, @pass, @usn, @nama)", db.getConnection());
 
 
             command.Parameters.Add("@email", MySqlDbType.VarChar).Value = tb_Email.Text;
@@ -32,7 +32,7 @@ namespace Mentally
             command.Parameters.Add("@usn", MySqlDbType.VarChar).Value = tb_Username.Text;
             command.Parameters.Add("@nama", MySqlDbType.VarChar).Value = tb_Nama.Text;
 
-            dB.openConnection();
+            db.openConnection();
 
             if (!checkValue())
             {
@@ -58,7 +58,7 @@ namespace Mentally
             }
             
 
-            dB.closeConnection();
+            db.closeConnection();
         }
 
         public Boolean checkUsername()
