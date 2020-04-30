@@ -26,7 +26,9 @@ namespace Mentally
 
         private void btn_History_Click(object sender, EventArgs e)
         {
-
+            History history = new History();
+            history.Show();
+            this.Hide();
         }
 
         private void btn_Motivasi_Click(object sender, EventArgs e)

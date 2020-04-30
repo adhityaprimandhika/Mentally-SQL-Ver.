@@ -41,14 +41,14 @@ namespace Mentally
 
             if(table.Rows.Count > 0)
             {
-                MessageBox.Show("Login Berhasil");
+                MessageBox.Show("Login Succeed");
                 Menu menu = new Menu();
                 menu.Show();
                 this.Close();
             }
             else
             {
-                MessageBox.Show("Login Gagal");
+                MessageBox.Show("Login Failed");
             }
         }
 

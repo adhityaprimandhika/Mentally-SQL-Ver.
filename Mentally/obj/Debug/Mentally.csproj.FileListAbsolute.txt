@@ -1,59 +1,36 @@
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.csprojAssemblyReference.cache
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.Login.resources
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.Properties.Resources.resources
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.csproj.GenerateResource.cache
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\Mentally.exe.config
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\Mentally.exe
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\Mentally.pdb
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.exe
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.pdb
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.Register.resources
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.Start.resources
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\EntityFramework.dll
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\EntityFramework.xml
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\hp\Documents\C#\Mentally\obj\Debug\Mentally.csproj.CopyComplete
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\AccountDatabase.mdf
-C:\Users\hp\Documents\C#\Mentally\bin\Debug\AccountDatabase_log.ldf
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally.exe.config
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally.exe
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally.pdb
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\EntityFramework.dll
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_Library.exe
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_Library.pdb
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_Library.exe.config
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\EntityFramework.xml
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.csprojAssemblyReference.cache
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.CheckUp.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Result.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Login.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Menu.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Motivation.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Properties.Resources.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Register.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Solution.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.Start.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.csproj.GenerateResource.cache
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.csproj.CopyComplete
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.exe
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.pdb
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\MySql.Data.dll
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Google.Protobuf.dll
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Ubiety.Dns.Core.dll
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Renci.SshNet.dll
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\MySql.Data.xml
-<<<<<<< HEAD
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.exe
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.pdb
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.exe.config
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.csproj.CoreCompileInputs.cache
-=======
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\obj\Debug\Mentally.DatabaseCheck.resources
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.exe
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.pdb
-C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\bin\Debug\Mentally_DB_Library.exe.config
->>>>>>> 08286932a58b44ebc5c398f66e481245de9a1bed
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally.exe.config
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally_DB_Library.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally_Library.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\MySql.Data.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally_DB_Library.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally_DB_Library.exe.config
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally_Library.pdb
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\Mentally_Library.exe.config
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\bin\Debug\MySql.Data.xml
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.CheckUp.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.DatabaseCheck.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.History.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Result.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Login.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Menu.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Motivation.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Properties.Resources.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Register.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Solution.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.Start.resources
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.csproj.CopyComplete
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.exe
+C:\Users\hp\Documents\Kuliah\Tugas\Semester 2\Praktikum PBO\Tugas Akhir\Mentally\Mentally\obj\Debug\Mentally.pdb
